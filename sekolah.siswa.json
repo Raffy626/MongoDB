@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "678dc9c076aac0db2f7416cb"
+  },
+  "nama": "Raffy",
+  "kelas": "XIRPLA"
+},
+{
+  "_id": {
+    "$oid": "678dca0476aac0db2f7416cc"
+  },
+  "nama": "Ivriel",
+  "kelas": "XIRPLA"
+},
+{
+  "_id": {
+    "$oid": "678dca7476aac0db2f7416cd"
+  },
+  "nama": "doni",
+  "kelas": "XI"
+},
+{
+  "_id": {
+    "$oid": "678dca7476aac0db2f7416ce"
+  },
+  "nama": "Raffy",
+  "kelas": "XI"
+},
+{
+  "_id": {
+    "$oid": "678dca7476aac0db2f7416cf"
+  },
+  "nama": "Ivriel",
+  "kelas": "XI"
+}]
